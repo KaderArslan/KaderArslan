@@ -13,9 +13,7 @@
 * React
 * Reactstrap
 * Material-UI
-
 --
-
 ### Technologies I'm Interested In
 * .Net5
 * MsSQL
