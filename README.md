@@ -4,9 +4,7 @@
 
 # < KaderArslan />
 
---
-
-###### Technical Competencies;
+### Technical Competencies;
 * Git
 * Html
 * Css
@@ -15,6 +13,14 @@
 * React
 * Reactstrap
 * Material-UI
+
+--
+
+### Technologies I'm Interested In
+* .Net5
+* MsSQL
+* Node.js
+* MongoDB
 
 <!--
 **KaderArslan/KaderArslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
