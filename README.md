@@ -15,10 +15,13 @@
 * Material-UI
 ---
 ### Technologies I'm Interested In
+* Sass
 * .Net5
 * MsSQL
 * Node.js
 * MongoDB
+---
+📫 How to reach me: kaderarslan@gmail.com
 
 <!--
 **KaderArslan/KaderArslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
