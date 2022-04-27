@@ -12,7 +12,7 @@ I'm Kader Arslan. Here I share the projects in my learning process while improvi
 - 🤔 I aim to learn **Tailwind Css**
 ---
 ### Connect with me
-[<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=fff">](https://www.linkedin.com/in/kaderarslan/ "Kader Arslan LinkedIn Profile") [<img src="https://img.shields.io/badge/-HackerRank-00EA64?logo=hackerrank&logoColor=fff">](https://www.hackerrank.com/kaderarslann0316?hr_r=1 "Kader Arslan HackerRank Profile") [<img src="https://img.shields.io/badge/-Medium-000000?logo=medium&logoColor=fff">](https://medium.com/@kaderarslan "Kader Arslan Medium Profile")
+[<img src="https://img.shields.io/badge/-KaderArslan-0A66C2?logo=LinkedIn&logoColor=fff">](https://www.linkedin.com/in/kaderarslan/ "Kader Arslan LinkedIn Profile") [<img src="https://img.shields.io/badge/-HackerRank-00EA64?logo=hackerrank&logoColor=fff">](https://www.hackerrank.com/kaderarslann0316?hr_r=1 "Kader Arslan HackerRank Profile") [<img src="https://img.shields.io/badge/-Medium-000000?logo=medium&logoColor=fff">](https://medium.com/@kaderarslan "Kader Arslan Medium Profile")
 <!-- [<img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=fff">](kaderarslandev@gmail.com "Kader Arslan Gmail") -->
 #### 📫 How to reach me: kaderarslandev@gmail.com
 ---
