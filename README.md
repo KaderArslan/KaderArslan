@@ -25,7 +25,9 @@ I'm Kader Arslan. Here I share the projects in my learning process while improvi
 
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff"> <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=fff"> <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff"> <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff"> <img src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=fff">
 ---
-[<img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=KaderArslan&count_private=true&show_icons=true&theme=radical">](https://github-readme-stats.vercel.app/api?username=KaderArslan&count_private=true&show_icons=true&theme=radical "Kader Arslan LinkedIn Profile") [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaderArslan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[<img width="50%" src="https://github-readme-stats.vercel.app/api?username=KaderArslan&count_private=true&show_icons=true&theme=radical">](https://github-readme-stats.vercel.app/api?username=KaderArslan&count_private=true&show_icons=true&theme=radical) [<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaderArslan&layout=compact)](https://github.com/anuraghazra/github-readme-stats">](https://github-readme-stats.vercel.app/api/top-langs/?username=KaderArslan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaderArslan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [<img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KADERARSLAN&show_icons=true&theme=radical">](https://github-readme-stats.vercel.app/api/top-langs/?username=KADERARSLAN&show_icons=true&theme=radical "Kader Arslan LinkedIn Profile") -->
 
