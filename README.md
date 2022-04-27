@@ -12,7 +12,7 @@ I'm Kader Arslan. Here I share the projects in my learning process while improvi
 <!-- [<img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=fff">](kaderarslandev@gmail.com "Kader Arslan Gmail") -->
 ---
 ### Technical Competencies;
-<img width="" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff"> <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff"> <img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=fff"> <img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=fff">
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff"> <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff"> <img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=fff"> <img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=fff">
 
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff"> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff"> <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=fff"> <img src="https://img.shields.io/badge/-Material.ui-007FFF?logo=mui&logoColor=fff"> <img src="https://img.shields.io/badge/-i18next-26A69A?logo=i18next&logoColor=fff">
 
@@ -27,29 +27,23 @@ I'm Kader Arslan. Here I share the projects in my learning process while improvi
 <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=fff"> <img src="https://img.shields.io/badge/-VS-5C2D91?logo=visualstudio&logoColor=fff"> <img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff"> 
 ---
 
-✨✨👋👋
+<!--
+✨✨ 👋👋 📫📫 🌱 💞️ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-👀 I’m interested in Front-end web development
-🌱 I’m currently learning JavaScript
-💞️ I’m looking to collaborate on ...
-📫 How to reach me 
-
-
-
+ 👀 I’m interested in Front-end web development
+-->
+### Hobies
 <img src="https://img.shields.io/badge/-Google%20Search%20Console-458CF5?logo=googlesearchconsole&logoColor=fff"> <img src="https://img.shields.io/badge/-Google%20PageSpeed%20Insights-4285F4?logo=pagespeedinsights&logoColor=fff"> <img src="https://img.shields.io/badge/-W3C%20Markup%20Validation%20Service-005A9C?logo=W3C&logoColor=fff">
 
 <img src="https://img.shields.io/badge/-Admin%20Panel-6C78AF?logo=phpmyadmin&logoColor=fff"> <img src="https://img.shields.io/badge/-Google%20My%20Business-4285F4?logo=googlemybusiness&logoColor=fff"> <img src="https://img.shields.io/badge/-Google%20Analytics-E37400?logo=googleanalytics&logoColor=fff"> <img src="https://img.shields.io/badge/-Google%20Tag%20Manager-246FDB?logo=googletagmanager&logoColor=fff">
+---
+[<img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=KaderArslan&count_private=true&show_icons=true&theme=radical">](https://github-readme-stats.vercel.app/api?username=KaderArslan&count_private=true&show_icons=true&theme=radical "Kader Arslan LinkedIn Profile")[<img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KADERARSLAN&show_icons=true&theme=radical">](https://github-readme-stats.vercel.app/api/top-langs/?username=KADERARSLAN&show_icons=true&theme=radical "Kader Arslan LinkedIn Profile")
 
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=KaderArslan&count_private=true&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KADERARSLAN&show_icons=true&theme=radical)
+<!--![Github stats](https://github-readme-stats.vercel.app/api?username=KaderArslan&count_private=true&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KADERARSLAN&show_icons=true&theme=radical)-->
