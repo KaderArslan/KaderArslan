@@ -27,7 +27,7 @@ I'm Kader Arslan. Here I share the projects in my learning process while improvi
 ---
 [<img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=KaderArslan&count_private=true&show_icons=true&theme=radical">](https://github-readme-stats.vercel.app/api?username=KaderArslan&count_private=true&show_icons=true&theme=radical "Kader Arslan LinkedIn Profile")[<img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KADERARSLAN&show_icons=true&theme=radical">](https://github-readme-stats.vercel.app/api/top-langs/?username=KADERARSLAN&show_icons=true&theme=radical "Kader Arslan LinkedIn Profile")
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bne08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaderArslan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 <!-- <img width="100%" src="https://i.pinimg.com/originals/89/2e/8b/892e8b39f44fa8fedd2be543dd3f5289.gif?raw=true" width="100%"> -->
 
